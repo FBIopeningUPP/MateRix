@@ -6,7 +6,7 @@
 #define NUM_LEDS 25
 
 CRGB leds_tl[NUM_LEDS], leds_TR[NUM_LEDS], leds_BL[NUM_LEDS], leds_BR[NUM_LEDS];
-
+CRGB screensaverColor = CRGB::Green;
 void Engine_Init() {
     int pins[] = {PIN_JOY_UP, PIN_JOY_DOWN, PIN_JOY_LEFT, PIN_JOY_RIGHT, PIN_JOY_PRESS,
                   PIN_BTN_A, PIN_BTN_B, PIN_BTN_X, PIN_BTN_Y, PIN_BTN_START};

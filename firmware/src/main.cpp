@@ -18,6 +18,33 @@ void setup() {
 void loop() {
     int input = ReadInputs();
 
+    if (state != PC_MODE) {
+        while (Serial.available()) {
+            if (Serial.read() == OxFF) {
+                delay(5);
+                if (Serial.available() >= 4) {
+                    uint8_t cmd = Serial.read();
+                    uint8_t r = Serial.read();
+                    uint8_t g = Serial.read();
+                    uint8_t b = Serial.read();
+
+                    if (cmd == 1) {
+                        screensaverColor = CRGB(r, g, b);
+                    }
+                }
+            }
+        }
+    }
+    static unsigned long lastTelemetry = 0;
+    if (millis() - lastTelemetry > 1000) {
+        lastTelemetry = millis();
+        if (state == MENU) Serial.println("State: MAIN MENU");
+        else if (state == SNAKE) Serial.println("State: SNAKE");
+        else if (state == PC_MODE) Serial.println("State: PC_MODE");
+        else if (state == TETRIS) Serial.println("State: TETRIS");
+        else if (state == SCREENSAVER) Serial.println("State: SCREENSAVER");
+    }
+
     static unsigned long lastInteraction = 0;
 
     if (input != -1) {

@@ -3,7 +3,7 @@
 
 #include <Arduino.h>
 #include <FastLED.h>
-
+extern CRGB screensaverColor;
 #define PIN_JOY_UP 15
 #define PIN_JOY_DOWN 16
 #define PIN_JOY_LEFT 17
