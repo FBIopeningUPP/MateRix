@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "c1ded193-8b46-4ded-9a34-ad90892c23b7")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 19.05 19.05)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8737c167-b09d-4345-9a8a-63b4fefc21d6")
+		(property "Sheetname" "mcu"
+			(at 19.05 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 19.05 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb"
+				(path "/c1ded193-8b46-4ded-9a34-ad90892c23b7"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 19.05)
+		(size 13.97 13.335)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8cb7d770-62ec-4eda-b7c7-c4e41b854edd")
+		(property "Sheetname" "step-down"
+			(at 93.98 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "step-down.kicad_sch"
+			(at 93.98 32.9696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb"
+				(path "/c1ded193-8b46-4ded-9a34-ad90892c23b7"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 70.485 19.05)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a424e184-f1eb-4f3f-88ee-b017aad56e19")
+		(property "Sheetname" "usbc"
+			(at 70.485 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usbc.kicad_sch"
+			(at 70.485 32.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb"
+				(path "/c1ded193-8b46-4ded-9a34-ad90892c23b7"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 44.45 19.05)
+		(size 12.7 12.065)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b6b32500-b36b-4d23-bd7e-267d834cb571")
+		(property "Sheetname" "quadrant"
+			(at 44.45 18.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "quadrant.kicad_sch"
+			(at 44.45 31.6996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pcb"
+				(path "/c1ded193-8b46-4ded-9a34-ad90892c23b7"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
