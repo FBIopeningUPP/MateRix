@@ -1,0 +1,21 @@
+.pio/build/esp32-s3-mini/lib999/FastLED/fl/crgb_hsv16.cpp.o: \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/crgb_hsv16.cpp \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/crgb.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/stdint.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/arm/is_arm.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/esp/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/chsv.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/hsv.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/namespace.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/color.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/force_inline.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/move.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/hsv2rgb.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/ease.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fastled_progmem.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/null_progmem.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/hsv16.h

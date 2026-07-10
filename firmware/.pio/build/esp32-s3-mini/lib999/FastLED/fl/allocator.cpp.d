@@ -1,0 +1,34 @@
+.pio/build/esp32-s3-mini/lib999/FastLED/fl/allocator.cpp.o: \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/allocator.cpp \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/allocator.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/inplacenew.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/stdint.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/arm/is_arm.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/platforms/esp/int.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/memfill.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/type_traits.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/namespace.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/move.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/unused.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/bit_cast.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/bitset.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/bitset_dynamic.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/math_macros.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/has_include.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/compiler_control.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/variant.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/thread_local.h \
+ .pio/libdeps/esp32-s3-mini/FastLED/src/fl/thread.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/heap/include/esp_heap_caps.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/heap/include/multi_heap.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_err.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_compiler.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/include/esp_system.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include/esp_idf_version.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/esp_mac.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/esp_chip_info.h \
+ G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/esp_random.h
