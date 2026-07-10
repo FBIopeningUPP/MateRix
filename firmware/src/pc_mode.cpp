@@ -9,7 +9,7 @@ void RunPCMode() {
 
     while (Serial.available()) {
         lastByteTime = millis();
-        rgb[ByteCount % 3] = Serial.read();
+        rgb[byteCount % 3] = Serial.read();
 
         if((byteCount % 3) == 2) {
             int pixelIndex = byteCount / 3;

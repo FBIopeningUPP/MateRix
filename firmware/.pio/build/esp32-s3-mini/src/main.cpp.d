@@ -179,7 +179,7 @@
  G:/Apps/platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc/esp32/spiram.h \
  G:/Apps/platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
  G:/Apps/platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
- .pio/libdeps/esp32-s3-mini/FastLED/src/FastLED.h \
+ src/engine.h .pio/libdeps/esp32-s3-mini/FastLED/src/FastLED.h \
  .pio/libdeps/esp32-s3-mini/FastLED/src/fl/stdint.h \
  .pio/libdeps/esp32-s3-mini/FastLED/src/fl/dll.h \
  .pio/libdeps/esp32-s3-mini/FastLED/src/fl/force_inline.h \
