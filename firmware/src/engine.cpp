@@ -53,3 +53,12 @@ void ClearScreen() {
 void ShowScreen() {
     FastLED.show();
 }
+
+void FadeScreen(uint8_t amount) {
+    for (int i = 0; i < NUM_LEDS; i++) {
+        leds_tl[i].fadeToBlackBy(amount);
+        leds_TR[i].fadeToBlackBy(amount);
+        leds_BL[i].fadeToBlackBy(amount);
+        leds_BR[i].fadeToBlackBy(amount);
+    }
+}

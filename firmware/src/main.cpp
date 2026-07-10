@@ -4,8 +4,9 @@
 void RunPCMode();
 void RunSnake(int input);
 void RunTetris(int input);
+void RunScreensaver();
 
-enum State {MENU, SNAKE, PC_MODE, TETRIS};
+enum State {MENU, SNAKE, PC_MODE, TETRIS, SCREENSAVER};
 State state = MENU;
 int menuSelection = 0;
 
@@ -16,6 +17,20 @@ void setup() {
 
 void loop() {
     int input = ReadInputs();
+
+    static unsigned long lastInteraction = 0;
+
+    if (input != -1) {
+        lastInteraction = millis();
+        if (state == SCREENSAVER) {
+            state = MENU;
+            ClearScreen();
+        }
+    }
+
+    if (millis() - lastInteraction > 10000 && state != PC_MODE && state != SCREENSAVER) {
+        state = SCREENSAVER;
+    }
 
     if (input == PIN_BTN_B) state = MENU;
 
@@ -40,6 +55,8 @@ void loop() {
         RunPCMode();
     } else if (state == TETRIS) {
         RunTetris(input); 
+    } else if (state == SCREENSAVER) {
+        RunScreensaver();
     }
 
     ShowScreen();

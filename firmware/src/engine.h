@@ -21,5 +21,6 @@ int ReadInputs();
 void DrawPixel(int x, int y, CRGB color);
 void ClearScreen();
 void ShowScreen();
+void FadeScreen(uint8_t amount);
 
 #endif 
