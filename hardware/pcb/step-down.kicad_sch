@@ -1537,6 +1537,28 @@
 		)
 		(uuid "f7046564-c0bf-41ec-8121-a40b580634f1")
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 174.625 93.345 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a38c269a-4038-4e3f-bff6-a8c84b01a89a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.5088 93.345 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "5V_BEC"
 		(shape input)
 		(at 186.055 95.885 0)

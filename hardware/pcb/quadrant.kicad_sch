@@ -3488,7 +3488,7 @@
 		)
 		(uuid "fffa4776-04de-45f8-aebe-3fb2b49fbf13")
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 220.98 169.545 90)
 		(fields_autoplaced yes)
@@ -3510,7 +3510,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 164.465 38.1 180)
 		(fields_autoplaced yes)
@@ -3532,7 +3532,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 47.625 212.725 90)
 		(fields_autoplaced yes)
@@ -3554,9 +3554,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 199.39 38.1 90)
+		(at 200.025 38.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3566,7 +3566,7 @@
 		)
 		(uuid "081d5491-505e-47cb-90b3-e3cd7adebc03")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.39 32.8167 90)
+			(at 200.025 32.8167 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3576,7 +3576,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 29.845 212.725 90)
 		(fields_autoplaced yes)
@@ -3598,7 +3598,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 220.98 184.15 90)
 		(fields_autoplaced yes)
@@ -3620,7 +3620,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 102.87 154.94 90)
 		(fields_autoplaced yes)
@@ -3642,7 +3642,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 220.98 154.305 90)
 		(fields_autoplaced yes)
@@ -3664,9 +3664,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 61.595 38.1 90)
+		(at 62.23 38.1 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3676,7 +3676,7 @@
 		)
 		(uuid "19be24e1-000f-4bd4-9a1e-0ff5f2d0fdae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.595 32.8167 90)
+			(at 62.23 32.8167 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3686,7 +3686,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 237.49 95.885 90)
 		(fields_autoplaced yes)
@@ -3708,7 +3708,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 102.87 212.725 90)
 		(fields_autoplaced yes)
@@ -3730,9 +3730,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 199.39 95.885 90)
+		(at 200.025 95.885 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3742,7 +3742,7 @@
 		)
 		(uuid "2056a87d-dd13-4c34-8b83-383d93c6a08e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.39 90.6017 90)
+			(at 200.025 90.6017 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3752,7 +3752,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 26.67 95.885 90)
 		(fields_autoplaced yes)
@@ -3774,7 +3774,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 83.82 212.725 90)
 		(fields_autoplaced yes)
@@ -3796,9 +3796,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 201.93 169.545 90)
+		(at 202.565 169.545 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3808,7 +3808,7 @@
 		)
 		(uuid "239501ed-c36f-49d3-b6b4-f30da57d20c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 164.2617 90)
+			(at 202.565 164.2617 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3818,7 +3818,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 167.005 154.305 180)
 		(fields_autoplaced yes)
@@ -3840,7 +3840,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 167.005 169.545 90)
 		(fields_autoplaced yes)
@@ -3862,7 +3862,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 29.845 170.18 90)
 		(fields_autoplaced yes)
@@ -3884,7 +3884,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 218.44 95.885 90)
 		(fields_autoplaced yes)
@@ -3906,7 +3906,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 182.245 95.885 90)
 		(fields_autoplaced yes)
@@ -3928,7 +3928,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 102.87 170.18 90)
 		(fields_autoplaced yes)
@@ -3950,7 +3950,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 99.695 38.1 90)
 		(fields_autoplaced yes)
@@ -3972,9 +3972,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 201.93 154.305 90)
+		(at 202.565 154.305 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3984,7 +3984,7 @@
 		)
 		(uuid "361ebc2d-5a2b-4e74-94e5-80fc56d526c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 149.0217 90)
+			(at 202.565 149.0217 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3994,9 +3994,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 64.77 212.725 90)
+		(at 65.405 212.725 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4006,7 +4006,7 @@
 		)
 		(uuid "3a6906ff-2e87-4ae0-a329-29820556294e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 207.4417 90)
+			(at 65.405 207.4417 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +4016,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 167.005 198.12 90)
 		(fields_autoplaced yes)
@@ -4038,7 +4038,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 184.785 184.15 90)
 		(fields_autoplaced yes)
@@ -4060,7 +4060,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 164.465 81.915 90)
 		(fields_autoplaced yes)
@@ -4082,7 +4082,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 44.45 95.885 90)
 		(fields_autoplaced yes)
@@ -4126,7 +4126,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 220.98 198.12 90)
 		(fields_autoplaced yes)
@@ -4148,7 +4148,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 83.82 184.785 90)
 		(fields_autoplaced yes)
@@ -4170,7 +4170,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 240.03 212.09 90)
 		(fields_autoplaced yes)
@@ -4192,7 +4192,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 218.44 81.915 90)
 		(fields_autoplaced yes)
@@ -4214,7 +4214,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 237.49 38.1 90)
 		(fields_autoplaced yes)
@@ -4236,7 +4236,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 47.625 184.785 90)
 		(fields_autoplaced yes)
@@ -4258,7 +4258,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 164.465 53.34 90)
 		(fields_autoplaced yes)
@@ -4280,7 +4280,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 184.785 198.12 90)
 		(fields_autoplaced yes)
@@ -4302,7 +4302,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 182.245 67.945 90)
 		(fields_autoplaced yes)
@@ -4324,7 +4324,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 218.44 38.1 90)
 		(fields_autoplaced yes)
@@ -4346,7 +4346,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 29.845 154.94 180)
 		(fields_autoplaced yes)
@@ -4368,9 +4368,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 201.93 198.12 90)
+		(at 202.565 198.12 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4380,7 +4380,7 @@
 		)
 		(uuid "707c5714-f8e3-4c8c-9c01-23a23003c0b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 192.8367 90)
+			(at 202.565 192.8367 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4390,7 +4390,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 102.87 198.755 90)
 		(fields_autoplaced yes)
@@ -4412,7 +4412,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 99.695 81.915 90)
 		(fields_autoplaced yes)
@@ -4434,9 +4434,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 61.595 67.945 90)
+		(at 62.23 67.945 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4446,7 +4446,7 @@
 		)
 		(uuid "7b0acc57-507b-49d4-a081-9a3f26ff2885")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.595 62.6617 90)
+			(at 62.23 62.6617 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4456,9 +4456,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 61.595 95.885 90)
+		(at 62.23 95.885 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4468,7 +4468,7 @@
 		)
 		(uuid "7e93bbfc-61d4-43e4-af65-d98c7d3fb41c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.595 90.6017 90)
+			(at 62.23 90.6017 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4478,7 +4478,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 182.245 53.34 90)
 		(fields_autoplaced yes)
@@ -4500,7 +4500,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 29.845 198.755 90)
 		(fields_autoplaced yes)
@@ -4544,7 +4544,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 47.625 198.755 90)
 		(fields_autoplaced yes)
@@ -4566,9 +4566,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 61.595 81.915 90)
+		(at 62.23 81.915 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4578,7 +4578,7 @@
 		)
 		(uuid "88215c4a-1b8c-4b92-9f16-a1592e3fffd1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.595 76.6317 90)
+			(at 62.23 76.6317 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4588,7 +4588,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 83.82 170.18 90)
 		(fields_autoplaced yes)
@@ -4610,7 +4610,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 47.625 170.18 90)
 		(fields_autoplaced yes)
@@ -4632,7 +4632,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 218.44 67.945 90)
 		(fields_autoplaced yes)
@@ -4654,7 +4654,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 240.03 184.15 90)
 		(fields_autoplaced yes)
@@ -4676,7 +4676,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 80.645 81.915 90)
 		(fields_autoplaced yes)
@@ -4698,9 +4698,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 64.77 184.785 90)
+		(at 65.405 184.785 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4710,7 +4710,7 @@
 		)
 		(uuid "95f2989b-3d7d-4733-910b-9e9c7ef00414")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 179.5017 90)
+			(at 65.405 179.5017 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4720,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 167.005 184.15 90)
 		(fields_autoplaced yes)
@@ -4742,7 +4742,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 237.49 81.915 90)
 		(fields_autoplaced yes)
@@ -4764,7 +4764,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 240.03 154.305 90)
 		(fields_autoplaced yes)
@@ -4786,9 +4786,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 64.77 198.755 90)
+		(at 65.405 198.755 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4798,7 +4798,7 @@
 		)
 		(uuid "9e36921d-597a-4fea-a65d-86e10366aa00")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 193.4717 90)
+			(at 65.405 193.4717 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4808,7 +4808,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 26.67 67.945 90)
 		(fields_autoplaced yes)
@@ -4830,7 +4830,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 99.695 53.34 90)
 		(fields_autoplaced yes)
@@ -4852,9 +4852,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 199.39 53.34 90)
+		(at 200.025 53.34 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4864,7 +4864,7 @@
 		)
 		(uuid "a6769764-32bb-4cad-bc35-49b998d4c3bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.39 48.0567 90)
+			(at 200.025 48.0567 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4874,7 +4874,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 80.645 53.34 90)
 		(fields_autoplaced yes)
@@ -4896,9 +4896,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 61.595 53.34 90)
+		(at 62.23 53.34 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4908,7 +4908,7 @@
 		)
 		(uuid "a7fc21b9-9e14-4086-a3fc-0eca40cbfb7f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.595 48.0567 90)
+			(at 62.23 48.0567 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4918,7 +4918,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 83.82 154.94 90)
 		(fields_autoplaced yes)
@@ -4940,7 +4940,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 80.645 95.885 90)
 		(fields_autoplaced yes)
@@ -4962,7 +4962,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 102.87 184.785 90)
 		(fields_autoplaced yes)
@@ -4984,7 +4984,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 218.44 53.34 90)
 		(fields_autoplaced yes)
@@ -5006,7 +5006,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 167.005 212.09 90)
 		(fields_autoplaced yes)
@@ -5028,7 +5028,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 182.245 81.915 90)
 		(fields_autoplaced yes)
@@ -5050,9 +5050,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 64.77 154.94 90)
+		(at 65.405 154.94 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5062,7 +5062,7 @@
 		)
 		(uuid "b79f1782-9348-4a3d-a4f8-9533d566a0dd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 149.6567 90)
+			(at 65.405 149.6567 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5072,9 +5072,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 199.39 67.945 90)
+		(at 200.025 67.945 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5084,7 +5084,7 @@
 		)
 		(uuid "bf0484ee-0897-4551-80ef-9bfb0c19c1a7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.39 62.6617 90)
+			(at 200.025 62.6617 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,9 +5094,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 201.93 184.15 90)
+		(at 202.565 184.15 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5106,7 +5106,7 @@
 		)
 		(uuid "c000c38e-5431-40ed-9ade-8454ec221af6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 178.8667 90)
+			(at 202.565 178.8667 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5116,7 +5116,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 80.645 38.1 90)
 		(fields_autoplaced yes)
@@ -5138,7 +5138,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 237.49 53.34 90)
 		(fields_autoplaced yes)
@@ -5160,7 +5160,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 26.67 38.1 180)
 		(fields_autoplaced yes)
@@ -5182,7 +5182,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 44.45 81.915 90)
 		(fields_autoplaced yes)
@@ -5226,7 +5226,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 44.45 53.34 90)
 		(fields_autoplaced yes)
@@ -5248,7 +5248,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 99.695 67.945 90)
 		(fields_autoplaced yes)
@@ -5270,7 +5270,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 44.45 38.1 90)
 		(fields_autoplaced yes)
@@ -5292,7 +5292,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 237.49 67.945 90)
 		(fields_autoplaced yes)
@@ -5314,7 +5314,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 164.465 95.885 90)
 		(fields_autoplaced yes)
@@ -5336,7 +5336,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 47.625 154.94 90)
 		(fields_autoplaced yes)
@@ -5358,7 +5358,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 164.465 67.945 90)
 		(fields_autoplaced yes)
@@ -5380,7 +5380,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 80.645 67.945 90)
 		(fields_autoplaced yes)
@@ -5402,9 +5402,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 64.77 170.18 90)
+		(at 65.405 170.18 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5414,7 +5414,7 @@
 		)
 		(uuid "d973aaef-8477-4e4a-ae68-a6840591fe15")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 164.8967 90)
+			(at 65.405 164.8967 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5424,7 +5424,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 184.785 169.545 90)
 		(fields_autoplaced yes)
@@ -5446,7 +5446,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 184.785 154.305 90)
 		(fields_autoplaced yes)
@@ -5468,7 +5468,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 99.695 95.885 90)
 		(fields_autoplaced yes)
@@ -5490,7 +5490,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 29.845 184.785 90)
 		(fields_autoplaced yes)
@@ -5512,9 +5512,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 201.93 212.09 90)
+		(at 202.565 212.09 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5524,7 +5524,7 @@
 		)
 		(uuid "ed5e95d6-0bee-4306-ad00-79145e0009c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 206.8067 90)
+			(at 202.565 206.8067 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5534,9 +5534,9 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
-		(at 199.39 81.915 90)
+		(at 200.025 81.915 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5546,7 +5546,7 @@
 		)
 		(uuid "eecc64ea-2e27-4a57-a63c-cfc2bc4b482c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 199.39 76.6317 90)
+			(at 200.025 76.6317 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5578,7 +5578,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 26.67 81.915 90)
 		(fields_autoplaced yes)
@@ -5600,7 +5600,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 83.82 198.755 90)
 		(fields_autoplaced yes)
@@ -5622,7 +5622,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 240.03 198.12 90)
 		(fields_autoplaced yes)
@@ -5644,7 +5644,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 184.785 212.09 90)
 		(fields_autoplaced yes)
@@ -5666,7 +5666,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 44.45 67.945 90)
 		(fields_autoplaced yes)
@@ -5688,7 +5688,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 220.98 212.09 90)
 		(fields_autoplaced yes)
@@ -5710,7 +5710,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 240.03 169.545 90)
 		(fields_autoplaced yes)
@@ -5732,7 +5732,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 182.245 38.1 90)
 		(fields_autoplaced yes)
@@ -5754,7 +5754,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "5V_BEC"
 		(shape input)
 		(at 26.67 53.34 90)
 		(fields_autoplaced yes)
